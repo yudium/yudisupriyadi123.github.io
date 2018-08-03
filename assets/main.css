@@ -1,0 +1,15 @@
+/**
+ * source code box that created by ```
+ */
+pre.highlight {
+  background: #f8f8f8;
+  padding: 10px;
+  border: 1px solid #ddd;
+}
+
+/**
+ * source code inline style that created by single `
+ */
+code.highlighter-rouge {
+  background: #ddd;
+}
